@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "Angular-First": {
+    "Angular-First": { 
       "projectType": "application",
       "schematics": {},
       "root": "",
