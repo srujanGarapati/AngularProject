@@ -1,0 +1,30 @@
+<div class="container-fluid pt-3 bg-dark text-white">
+    <div class="row">
+        <div class="col-3 d-flex justify-content-end">
+            <h2 class="m-0">PROLINE</h2>
+        </div>
+        <div class="col-6">
+            <div class="input-group">
+                <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
+                <div class="input-group-append">
+                    <span class="input-group-text">Go</span>
+                </div>
+            </div>
+        </div>
+        <div class="col-3 d-flex justify-content-left">
+            <button type="button" class="btn btn-link">Log in</button>
+            <button type="button" class="btn btn-link">Sign up</button>
+        </div>
+    </div>
+    <div class="row justify-content-around pt-2 px-5">
+        <div class="col-1">
+            <button class="btn btn-link" routerLinkActive="active" [routerLink] = "'/home'">Home</button>
+        </div>
+        <div class="col-1">
+            <button class="btn btn-link" routerLinkActive="active" [routerLink] = "'/features'">Features</button>
+        </div>
+        <div class="col-1">
+            <button class="btn btn-link">Pricing</button>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+.btn.btn-link{
+    color: white;
+}
+
+.col-1 .btn.btn-link:hover, .col-1 .btn.btn-link:active, .col-1 .btn.btn-link:focus{
+    text-decoration: none;
+}
+
+.col-1 .btn.btn-link.active, .col-1 .btn.btn-link:hover{
+    background-color: black;
+}

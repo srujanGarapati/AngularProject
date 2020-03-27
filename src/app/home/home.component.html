@@ -1,0 +1,15 @@
+<div class="container-fluid mt-4">
+    <div class="d-flex" style="overflow-x: auto;">
+        <div *ngFor="let product of products; index as i" class="mx-5">
+            <div class="card" style="width: 18rem;">
+                <img [src]="product.imageUrl" class="card-img-top" alt="..." width="150px" height="200px">
+                <div class="card-body">
+                    <h5 class="card-title">{{product.name}}</h5>
+                    <p class="card-text">{{product.description}}</p>
+                    <p class="card-text">{{product.discount}}</p>
+                    <p class="card-text">{{i}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
