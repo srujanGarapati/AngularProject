@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "name": "Monkey",
+            "description": "It is a chilipi animal",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Macaca_sinica_-_01.jpg",
+            "discount": "60%"
+        },
+        {
+            "name": "Donkey",
+            "description": "It is a lazy animal",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Macaca_sinica_-_01.jpg",
+            "discount": "50%"
+        },
+        {
+            "name": "Dog",
+            "description": "It is a domestic animal",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Macaca_sinica_-_01.jpg",
+            "discount": "10%"
+        },
+        {
+            "name": "Monkey",
+            "description": "It is a chilipi animal",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Macaca_sinica_-_01.jpg",
+            "discount": "60%"
+        },
+        {
+            "name": "Donkey",
+            "description": "It is a lazy animal",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Macaca_sinica_-_01.jpg",
+            "discount": "50%"
+        },
+        {
+            "name": "Dog",
+            "description": "It is a domestic animal",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Macaca_sinica_-_01.jpg",
+            "discount": "10%"
+        }
+    ]
+}
